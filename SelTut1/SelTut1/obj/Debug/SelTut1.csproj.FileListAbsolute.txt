@@ -1,0 +1,12 @@
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\bin\Debug\SelTut1.dll
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\bin\Debug\SelTut1.pdb
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\obj\Debug\SelTut1.dll
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\obj\Debug\SelTut1.pdb
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\bin\Debug\nunit.framework.dll
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\bin\Debug\WebDriver.dll
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\bin\Debug\WebDriver.Support.dll
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\bin\Debug\nunit.framework.xml
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\bin\Debug\WebDriver.xml
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\bin\Debug\WebDriver.Support.xml
+c:\users\md\documents\visual studio 2015\Projects\SelTut1\SelTut1\obj\Debug\SelTut1.csprojResolveAssemblyReference.cache
