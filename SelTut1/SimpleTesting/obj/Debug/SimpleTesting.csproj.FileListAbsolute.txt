@@ -1,0 +1,6 @@
+C:\Users\md\Source\Repos\SeleniumTraining\SelTut1\SimpleTesting\bin\Debug\SimpleTesting.dll
+C:\Users\md\Source\Repos\SeleniumTraining\SelTut1\SimpleTesting\bin\Debug\SimpleTesting.pdb
+C:\Users\md\Source\Repos\SeleniumTraining\SelTut1\SimpleTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\md\Source\Repos\SeleniumTraining\SelTut1\SimpleTesting\obj\Debug\SimpleTesting.csprojResolveAssemblyReference.cache
+C:\Users\md\Source\Repos\SeleniumTraining\SelTut1\SimpleTesting\obj\Debug\SimpleTesting.dll
+C:\Users\md\Source\Repos\SeleniumTraining\SelTut1\SimpleTesting\obj\Debug\SimpleTesting.pdb
